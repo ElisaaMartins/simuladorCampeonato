@@ -1,0 +1,5 @@
+qtd_jogos = 9;
+vitoria = 3pts;
+empate = 1pt;
+derrota = 0pt;
+saldoGols = golsPro - golsContra;
